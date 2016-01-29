@@ -12,12 +12,12 @@ npm install
 # Usage
 You may staticly host files in the same directory (and subdirectories) with:
 ```
-node www.js
+node devserver.js
 ```
 
 Alternatively, you may use an Express Router by specifying the path relative to the current directory:
 ```
-node www.js app/
+node devserver.js ../app/
 ```
 
 #License

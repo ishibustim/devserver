@@ -1,7 +1,7 @@
 *
 !.gitignore
 !.gitattributes
-!www.js
+!devserver.js
 !README.md
 !LICENSE
 !package.json
