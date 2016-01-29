@@ -1,7 +1,7 @@
 # devserver
 Small webserver for working on projects locally.
 
-# Prerequisites
+# Requirements
   - node & npm
 
 # Installation
@@ -20,3 +20,5 @@ Alternatively, you may use an Express Router by specifying the path relative to 
 node www.js app/
 ```
 
+#License
+See LICENSE for details.
