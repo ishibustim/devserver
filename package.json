@@ -2,7 +2,7 @@
   "name": "devserver",
   "version": "1.0.0",
   "description": "Working directory for projects",
-  "main": "www.js",
+  "main": "devserver.js",
   "dependencies": {
     "express": "^4.13.4"
   },
