@@ -10,7 +10,7 @@ npm install
 ```
 
 # Usage
-You may staticly host files in the same directory (and subdirectories) with:
+You may statically host files in the same directory (and subdirectories) with:
 ```
 node devserver.js
 ```
