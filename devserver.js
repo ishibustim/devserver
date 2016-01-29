@@ -5,7 +5,7 @@ var port = 3000;
 var dirName = './';
 
 if (process.argv.length > 2) {
-  console.log('www.js: ' + process.argv.length + ' arguments provided.');
+  console.log('devserver.js: ' + process.argv.length + ' arguments provided.');
   console.log(process.argv);
 
   // 0 = 'node', 1 = 'www.js', 2 = dirName
@@ -18,5 +18,5 @@ else {
 }//end else
 
 app.listen(port, function() {
-  console.log('www.js: Listening on localhost:' + port);
+  console.log('devserver.js: Listening on localhost:' + port);
 });
